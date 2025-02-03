@@ -1,4 +1,6 @@
 // n-Bit Counter
+// Nigil | 20-Jan-2025
+
 module counter #(parameter BITSIZE = 8)
 (
 	input logic CLK, RST, increment,
