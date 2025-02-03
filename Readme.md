@@ -4,7 +4,7 @@ This repository contains notes related to SystemVerilog (SV) and the Universal V
 # 1. Example Codes
 ## Full Adder
 
-```verilog
+```systemverilog
 // 1-Bit Full Adder
 
 // `define FA_METHOD1
