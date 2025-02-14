@@ -1,5 +1,5 @@
 // n-Bit Counter
-// Nigil | 20-Jan-2025
+// Nigil
 
 module counter #(parameter BITSIZE = 8)
 (
