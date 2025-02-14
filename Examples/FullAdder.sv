@@ -1,5 +1,5 @@
 // 1-Bit Full Adder
-// Nigil | 20-Jan-2025
+// Nigil
 
 // `define FA_METHOD1
 // `define FA_METHOD2
